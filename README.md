@@ -28,4 +28,6 @@
 <br />
 
 [website]: https://sharepulses.com/
-[linkedin]: https://www.linkedin.com/in/cristian-dicu-56a8741a5/
+[linkedin]: https://www.linkedin.com/in/cristian-dicu-56a8741a5/   
+<img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
+
