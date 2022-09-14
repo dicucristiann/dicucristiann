@@ -20,7 +20,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://www.flaticon.com/free-icons/css">]
 [<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/free-icons/javascript">]
 [<img align="left" alt="ReactJS" width="26px" src="https://www.flaticon.com/free-icons/react">]
-[<img align="left" alt="GIT" width="26px" src="https://www.flaticon.com/free-icons/git">]
+[<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">]
 [<img align="left" alt="GIThub" width="26px" src="https://www.flaticon.com/free-icons/github">]
 
 
