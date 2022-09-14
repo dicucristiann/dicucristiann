@@ -12,7 +12,8 @@
 [<img align="left" alt="LinkedIn" width="23px" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png">][linkedin]
 
 <br />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="VisualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/128/906/906324.png">
@@ -29,5 +30,5 @@
 
 [website]: https://sharepulses.com/
 [linkedin]: https://www.linkedin.com/in/cristian-dicu-56a8741a5/   
-<img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
+
 
