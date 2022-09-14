@@ -21,7 +21,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">]
 [<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">]
 [<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">]
-[<img align="left" alt="GIThub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">]
+<img align="left" alt="GIThub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 
 
 <br />
