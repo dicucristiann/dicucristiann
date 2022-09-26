@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="right" width="auto" src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
+<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
 
 <img align="left" alt="VisualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/128/906/906324.png">
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">
