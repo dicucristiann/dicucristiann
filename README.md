@@ -14,7 +14,6 @@
 <br />
 
 ### Languages and Tools:
-<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
 
 <img align="left" alt="VisualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/128/906/906324.png">
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">
@@ -25,12 +24,10 @@
 <img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 <img align="left" alt="GIThub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 
-
-
 <br />
 <br />
 
 [website]: https://sharepulses.com/
 [linkedin]: https://www.linkedin.com/in/cristian-dicu-56a8741a5/   
-
-
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
