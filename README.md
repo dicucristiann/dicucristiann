@@ -1,7 +1,5 @@
 ### Hi there, I'm Cristian 👋
 
-
-- 🔭 I’m currently working on [SharePulses][website]!
 - 🧑🏽‍💻 I’m currently learning ReactJS⚛️ 
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 🏋️ Fun fact: I like to go to the gym regularly for a healthier lifestyle.
@@ -27,7 +25,6 @@
 <br />
 <br />
 
-[website]: https://sharepulses.com/
 [linkedin]: https://www.linkedin.com/in/cristian-dicu-56a8741a5/   
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
