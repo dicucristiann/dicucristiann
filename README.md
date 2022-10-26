@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SharePulses.com" width="23px" src="https://cdn-icons-png.flaticon.com/128/3178/3178285.png">][website]
-[<img align="left" alt="LinkedIn" width="23px" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png">][linkedin]
+<a  href="mailto:dicucristian24@gmail.com"><img align="left" alt="Gmail" width="26px" target="_blank" src="https://img.icons8.com/color/344/gmail--v1.png"></a>
+<a  href="https://www.linkedin.com/in/cristian-dicu-56a8741a5/ "><img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png"></a>
 
 <br />
 
@@ -24,7 +24,7 @@
 
 <br />
 <br />
-
-[linkedin]: https://www.linkedin.com/in/cristian-dicu-56a8741a5/   
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
+
+
+
