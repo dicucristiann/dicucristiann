@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-<a  href="mailto:dicucristian24@gmail.com"><img align="left" alt="Gmail" width="26px" target="_blank" src="https://img.icons8.com/color/344/gmail--v1.png"></a>
-<a  href="https://www.linkedin.com/in/cristian-dicu-56a8741a5/ "><img align="left" alt="LinkedIn" width="26px" target="_blank" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png"></a>
+<a  href="mailto:dicucristian24@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/color/344/gmail--v1.png"></a>
+<a  href="https://www.linkedin.com/in/cristian-dicu-56a8741a5/ "><img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png"></a>
 
 <br />
 
