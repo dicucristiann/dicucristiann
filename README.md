@@ -1,49 +1,43 @@
 ### Hi there, I'm Cristian 👋
 
 - 🧑🏽‍💻 I’m currently focusing on ReactJS⚛️ 
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 🏋️ Fun fact: I like to go to the gym regularly for a healthier lifestyle.
 
 <br />
 
 ### Languages and Tools:
-<a name="learning-now"></a>
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
-
-<a name="learning-next"></a>
-
+<p>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="ReactJS" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=3FA037" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=6762A6" alt="heroku logo" title="heroku" height="25" />
+<img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=#7743CE" alt="NPM logo" title="NPM" height="25" />
+<img src="https://img.shields.io/badge/NodeJS-282C34?logo=Node.js&logoColor=#215732" alt="NodeJS logo" title="NondeJS" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25"/>
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7848d9" alt="Bootstrap logo" title="Bootstrap" height="25"/>
+</p>
 <br />
 
-### Connect with me:
+### 🔍  Where to find me
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/cristian-dicu-56a8741a5/)](https://www.linkedin.com/in/cristian-dicu-56a8741a5/)
+[![Gmail Badge](https://img.shields.io/badge/dicucristian24@gmail.com-282C34?logo=gmail&logoColor=EA4335&link=mailto:15203012@iubat.edu)](mailto:dicucristian24@gmail.com)
 
-<a  href="mailto:dicucristian24@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/color/344/gmail--v1.png"></a>
-<a  href="https://www.linkedin.com/in/cristian-dicu-56a8741a5/ "><img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png"></a>
-
+<h2><h2>
+  
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura" alt="Github Stats" /></p>
+
+<h2 align='center'>⚡️<i>Let's do the work!</i>⚡️</h2>
+<p align="center">
+   <img src="https://www.section.io/engineering-education/javascript-particles-effect-with-tsparticles/linked-particles.gif" alt="JS Particles" height="220" width="1012"/>
+   </p>
+
 
 
 
