@@ -4,25 +4,44 @@
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 🏋️ Fun fact: I like to go to the gym regularly for a healthier lifestyle.
 
+<br />
+
+### Languages and Tools:
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Fastlane-282C34?logo=fastlane&logoColor=00F200" alt="Fastlane logo" title="Fastlane" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
+
+<a name="learning-next"></a>
+
+<br />
+
 ### Connect with me:
 
 <a  href="mailto:dicucristian24@gmail.com"><img align="left" alt="Gmail" width="26px" src="https://img.icons8.com/color/344/gmail--v1.png"></a>
 <a  href="https://www.linkedin.com/in/cristian-dicu-56a8741a5/ "><img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/128/2626/2626273.png"></a>
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="VisualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/128/906/906324.png">
-<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">
-<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/128/919/919826.png">
-<img align="left" alt="TailWind" width="26px" src="https://img.icons8.com/fluency/344/tailwind_css.png">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-<img align="left" alt="GIThub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-
-<br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura"/>
 
