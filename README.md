@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="23"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="23"/>
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7848d9" alt="Bootstrap logo" title="Bootstrap" height="23"/>
+<img src="https://img.shields.io/badge/WebDriverI/O-282C34?logo=webdriverio&logoColor=e0531f" alt="WebDriverI/O logo" title="WebDriverI/O" height="23"/>
+<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=07e007" alt="Selenium logo" title="Selenium" height="23"/>
 </p>
 <br />
 
