@@ -1,6 +1,6 @@
 ### Hi there, I'm Cristian 👋
 
-- 🧑🏽‍💻 I’m currently focusing on ReactJS⚛️ 
+- 🧑🏽‍💻 I’m currently focusing on Automated Testing
 - 🥅 2023 Goals: Contribute to Open Source projects
 - 🏋️ Fun fact: I like to go to the gym regularly for a healthier lifestyle.
 
