@@ -33,7 +33,7 @@
 <h2><h2>
   
 <br />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura" alt="Github Stats" /></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura" alt="GitHub Stats" /></p>
 
 <h2 align='center'>⚡️<i>Let's do the work!</i>⚡️</h2>
 <p align="center">
