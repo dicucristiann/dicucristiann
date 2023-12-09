@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
 
 - 🧑🏽‍💻 I am currently focusing on improving my skills
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Focusing on mastering Agile, DevOps, CI/CD technologies for dynamic feedback.
 - 🏋️ Fun fact: I like to go to the gym regularly for a healthier lifestyle.
 
 <br />
