@@ -1,8 +1,9 @@
 ### Hi there, I'm Cristian 👋
 
-- 🧑🏽‍💻 I am currently focusing on improving my skills
-- 🥅 2024 Goals: Focusing on mastering Agile, DevOps, CI/CD technologies for dynamic feedback.
-- 🏋️ Fun fact: I like to go to the gym regularly for a healthier lifestyle.
+- 🧑‍💻 Focusing on enhancing my expertise in Software Development in Test, blending development, and testing to improve quality and efficiency.
+- 🥅 2024 Goals: Master GitHub workflows and automation tools to seamlessly integrate test automation into CI/CD pipelines.
+- 📚 Currently learning: Xcode for automating iOS tests, diving into Swift for test development, and mastering the use of simulators for consistent testing environments
+- 🏋️ Fun fact: I unwind by exploring new tech gadgets and trends, keeping my mind and workspace in constant innovation.
 
 <br />
 
