@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Focusing on enhancing my expertise in Software Development in Test, blending development, and testing to improve quality and efficiency.
 - 🥅 2024 Goals: Master GitHub workflows and automation tools to seamlessly integrate test automation into CI/CD pipelines.
-- 📚 Currently learning: Xcode for automating iOS tests, diving into Swift for test development, and mastering the use of simulators for consistent testing environments
+- 🤖 Currently learning: 'Introduction to AI and Machine Learning on Google Cloud' and sharpening my skills with the 'Google IT Automation with Python Professional Certificate.'
 - 🏋️ Fun fact: I unwind by exploring new tech gadgets and trends, keeping my mind and workspace in constant innovation.
 
 <br />
@@ -28,7 +28,7 @@
 <br />
 
 ### 🔍  Where to find me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/cristian-dicu-56a8741a5/)](https://www.linkedin.com/in/cristian-dicu-56a8741a5/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/cristian-dicu-56a8741a5/)](https://www.linkedin.com/in/cristian-s-dicu/)
 [![Gmail Badge](https://img.shields.io/badge/dicucristian24@gmail.com-282C34?logo=gmail&logoColor=EA4335&link=mailto:15203012@iubat.edu)](mailto:dicucristian24@gmail.com)
 
 <h2><h2>
