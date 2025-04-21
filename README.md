@@ -1,9 +1,19 @@
 ### Hi there, I'm Cristian 👋
+I'm currently focused on deepening my expertise in Software Development in Test (SDET), which blends software engineering practices with automated testing to deliver higher-quality and more efficient development workflows.
 
-- 🧑‍💻 Focusing on enhancing my expertise in Software Development in Test, blending development, and testing to improve quality and efficiency.
-- 🥅 2024 Goals: Master GitHub workflows and automation tools to seamlessly integrate test automation into CI/CD pipelines.
-- 🤖 Currently learning: 'Introduction to AI and Machine Learning on Google Cloud' and sharpening my skills with the 'Google IT Automation with Python Professional Certificate.'
-- 🏋️ Fun fact: I unwind by exploring new tech gadgets and trends, keeping my mind and workspace in constant innovation.
+### 2025 Goals
+
+- Advance my understanding of **CI/CD pipelines** by mastering **GitHub workflows** and modern **automation tools**.
+- Seamlessly integrate automated testing into continuous integration environments to drive faster and more reliable releases.
+
+### Currently Learning
+
+- **Google IT Automation with Python Professional Certificate**
+- Actively studying for the **AWS Cloud Practitioner certification** and exploring **DevOps principles** to expand my cloud and infrastructure knowledge.
+
+### Fun Fact
+
+I enjoy staying on the edge of innovation by exploring emerging tech gadgets and trends, keeping both my mindset and workspace dynamic and future-oriented.
 
 <br />
 
