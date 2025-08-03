@@ -1,56 +1,94 @@
-### Hi there, I'm Cristian 👋
-I'm currently focused on deepening my expertise in Software Development in Test (SDET), which blends software engineering practices with automated testing to deliver higher-quality and more efficient development workflows.
+<h1 align="center">Hi there, I'm Cristian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
+<h3 align="center">Software Development Engineer in Test (SDET) · Generative AI Automation Enthusiast · Lifelong Learner</h3>
 
-### 2025 Goals
-
-- Advance my understanding of **CI/CD pipelines** by mastering **GitHub workflows** and modern **automation tools**.
-- Seamlessly integrate automated testing into continuous integration environments to drive faster and more reliable releases.
-
-### Currently Learning
-
-- **Google IT Automation with Python Professional Certificate**
-- Actively studying for the **AWS Cloud Practitioner certification** and exploring **DevOps principles** to expand my cloud and infrastructure knowledge.
-
-### Fun Fact
-
-I enjoy staying on the edge of innovation by exploring emerging tech gadgets and trends, keeping both my mindset and workspace dynamic and future-oriented.
-
-<br />
-
-### Languages and Tools:
-<p>
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="23" />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="23" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="23" />
-<img src="https://img.shields.io/badge/React JS-282C34?logo=react&logoColor=61DAFB" alt="React JS logo" title="ReactJS" height="23" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="23" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=3FA037" alt="MongoDB logo" title="MongoDB" height="23" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="23" />
-<img src="https://img.shields.io/badge/Heroku-282C34?logo=heroku&logoColor=6762A6" alt="heroku logo" title="heroku" height="23" />
-<img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=#7743CE" alt="NPM logo" title="NPM" height="23" />
-<img src="https://img.shields.io/badge/NodeJS-282C34?logo=Node.js&logoColor=#215732" alt="NodeJS logo" title="NondeJS" height="23" />
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="23"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="23"/>
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7848d9" alt="Bootstrap logo" title="Bootstrap" height="23"/>
-<img src="https://img.shields.io/badge/WebDriverI/O-282C34?logo=webdriverio&logoColor=e0531f" alt="WebDriverI/O logo" title="WebDriverI/O" height="23"/>
-<img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium&logoColor=07e007" alt="Selenium logo" title="Selenium" height="23"/>
-</p>
-<br />
-
-### 🔍  Where to find me
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/cristian-dicu-56a8741a5/)](https://www.linkedin.com/in/cristian-s-dicu/)
-[![Gmail Badge](https://img.shields.io/badge/dicucristian24@gmail.com-282C34?logo=gmail&logoColor=EA4335&link=mailto:15203012@iubat.edu)](mailto:dicucristian24@gmail.com)
-
-<h2><h2>
-  
-<br />
-<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dicucristiann&show_icons=true&theme=aura" alt="GitHub Stats" /></p>
-
-<h2 align='center'>⚡️<i>Let's do the work!</i>⚡️</h2>
 <p align="center">
-   <img src="https://www.section.io/engineering-education/javascript-particles-effect-with-tsparticles/linked-particles.gif" alt="JS Particles" height="220" width="1012"/>
-   </p>
+  <a href="https://www.linkedin.com/in/cristian-s-dicu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dicucristian24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=dicucristiann&style=for-the-badge"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=dicucritiann)
+---
 
+
+## About Me
+Passionate **Automation QA Engineer** dedicated to helping teams ship faster — and safer.
+
+- **Specialities:** Testing **Android, iOS & Web** apps with **WebdriverIO**, **Playwright**, **JavaScript** and **TypeScript**.  
+- **Performance:** Load-testing with **Python** & **Locust** to keep latency and throughput in check.  
+- **DevOps mindset:** I embed automated tests into modern release flows without slowing anyone down.  
+- **Culture:** I champion QA best-practices, early feedback, and a quality-first mindset through close cross-functional collaboration.
+
+### Current Focus
+- Scaling WebdriverIO & Playwright suites in parallel.
+
+### 2025 Goal
+- Earn the **AWS Certified Cloud Practitioner** certification and migrate my demo environment to AWS.
+
+### Mission
+- Deliver feedback early, automate everything that hurts, and keep quality at the heart of every team.
+
+
+---
+
+##  Top Goals
+
+* Master advanced **GitHub Actions** patterns (matrix builds, reusable workflows)
+* Experiment with **Test‑containers** for ephemeral environment testing
+* Publish a blog post series on **SDET best practices**
+
+---
+
+##  Featured Projects
+
+| Repository                                                                              | Tech                                     | What you'll see                                                                                              |
+| --------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [**sdet-framework-template**](https://github.com/dicucristiann/automation-playwright) | TypeScript · Playwright · GitHub Actions | Starter kit that runs headless and headed tests, generates Allure reports, and posts results as PR comments. |
+| [**infra-test‑lab(to-do)**](https://github.com/dicucristiann/to-do)                   | Terraform · AWS · Python                 | Spins up isolated test environments per PR using Terraform & destroys them automatically once checks pass.   |
+| [**ci-dashboard(to-do)**](https://github.com/dicucristiann/to-do)                       | React · Chart.js · Express               | Real‑time dashboard showing pipeline health, flaky‑test trends, and mean time to recovery.                   |
+
+---
+
+## Tech Toolbox </sub>
+
+| Domain                      | Technologies & IDEs |
+|-----------------------------|----------------------|
+| **Core Languages & Frameworks** | <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,redux,html,css,tailwind" height="32" alt="Core languages" /> |
+| **Testing & QA**         | <img src="https://cdn.simpleicons.org/webdriverio" alt="WebdriverIO logo" width="32"><img src="https://icon.icepanel.io/Technology/svg/Playwrite.svg" alt="PlayWrite"   width="32"> <img src="https://avatars.githubusercontent.com/u/2641063?s=48&v=4" alt="Locust"   width="32"> <img src="https://cdn.simpleicons.org/pytest" alt="Pytest logo" width="32"> <img src="https://cdn.simpleicons.org/selenium" alt="Selenium logo" width="32">|
+| **IDEs & Intelligence**   | <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode" height="32" alt="IDEs" /> |
+| **DevOps & Cloud**        | <img src="https://skillicons.dev/icons?i=docker,githubactions,terraform,aws" height="32" alt="DevOps & Cloud" /> |
+| **Tools & Platforms**      | <img src="https://skillicons.dev/icons?i=git,vscode,mongodb,heroku" height="32" alt="Tools & Platforms" /> |
+
+
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=dicucristiann&theme=tokyonight&hide_border=true&fire=EB5454&ring=7E3ACE&currStreakLabel=EB5454&cache_seconds=1800" height="165"/>
+</p>
+
+---
+
+##  Certifications
+
+| Certificate                      | Status              |
+| -------------------------------- | ------------------- |
+| Generative AI Automation Specialization | *Planned – Q4 2025* |
+| AWS Cloud Practitioner           |              *In Progress* |
+
+
+---
+
+<details>
+<summary>Fun Fact</summary>
+<br/>
+I enjoy staying on the edge of innovation by exploring emerging tech gadgets and trends, keeping both my mindset and workspace dynamic and future-oriented.
+</details>
+
+---
+
+<p align="center">
+  <em> Always open to collaboration and good conversation — feel free to reach out!</em>
+</p>
 
